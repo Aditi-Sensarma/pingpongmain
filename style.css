@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f0ff;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    overflow: hidden; 
+}
+canvas {
+    background-color: #fff;
+    border: 2px solid #b19cd9;
+}
+header {
+    background-color: #b19cd9;
+    color: white;
+    padding: 20px;
+}
+
+#scoreboard {
+    font-size: 1.5em;
+    margin: 20px;
+}
